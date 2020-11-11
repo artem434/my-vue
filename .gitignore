@@ -1,4 +1,4 @@
-.DS_Store
+git remote add origin git@github.com:artem434/my-vue.gitgi.DS_Store
 node_modules
 /dist
 
